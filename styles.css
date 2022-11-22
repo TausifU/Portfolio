@@ -1,0 +1,25 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css");
+
+.title{
+    background-color:rgb(23, 165, 106);
+    font:bold;
+    color: rgb(204, 202, 202);
+    text-align: center;
+}
+
+.center{
+    text-align:center;
+}
+
+.text{
+    font-size:medium ;
+    position: relative; top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box{
+    width: 320px;
+    padding: 10px;
+    border: 5px black;
+    margin:0;
+}
